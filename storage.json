@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "99bcf356696851c3b142df49ecc6115ddc4bcafbc6e9e92ba532fb2c3f8f6ef6",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///root/Desktop/odin_on_rails/my_first_rails_app"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/root/Desktop/odin_on_rails/my_first_rails_app",
+                "external": "file:///root/Desktop/odin_on_rails/my_first_rails_app",
+                "path": "/root/Desktop/odin_on_rails/my_first_rails_app",
+                "scheme": "file"
+            },
+            "backupPath": "/root/Desktop/odin_on_rails/my_first_rails_app/Backups/8e905562fd6e2226df24653a59233d14",
+            "uiState": {
+                "mode": 1,
+                "x": 4146,
+                "y": 377,
+                "width": 1024,
+                "height": 768
+            }
+        }
+    }
+}
